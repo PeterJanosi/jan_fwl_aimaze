@@ -5,4 +5,4 @@ The environment supports a dry-run mode (no ROS dependencies) so it can be
 imported and tested on systems without ROS installed.
 """
 
-__all__ = ["env", "random_agent"]
+__all__ = ["env", "random_agent", "ros_env"]
