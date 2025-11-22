@@ -1,3 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# ROS / Colcon
+build/
+install/
+log/
+*.db
+*.bag
+.rosinstall
+
+# Pytest
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Editor backups
+*~
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
+# Mypy
+.mypy_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Python virtualenv
+pip-wheel-metadata/
+__pypackages__/
+
+# Logs
+*.log
+
+# Ignore images or large data if not desired in repo (uncomment to enable)
+# img/*.png
+# img/*.jpg
 devel/
 logs/
 log/
