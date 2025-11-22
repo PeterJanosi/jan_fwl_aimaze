@@ -1,6 +1,6 @@
 # Dokumentáció — jan_fwl_aimaze
 
-Ez a `docs/` mappa a projekt részletes, disztribúció-specifikus és implementációs jegyzeteit tartalmazza. A cél, hogy a beadandóhoz szükséges technikai információk, konfigurációk és algoritmiai döntések jól dokumentáltak legyenek magyar nyelven.
+Ez a `docs/` mappa a projekt részletes, disztribúció-specifikus és implementációs jegyzeteit tartalmazza. A cél, hogy a beadandóhoz szükséges technikai információk, konfigurációk és algoritmiai döntések jól dokumentáltak legyenek.
 
 Fájlok:
 
