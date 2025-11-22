@@ -63,11 +63,4 @@ ros2 launch jan_fwl_aimaze launch_example1.launch.py
 
 Megjegyzés: A pontos elindítási lépések a helyi ROS 2 disztribúciótól függenek; részletes, disztribúció-specifikus útmutatót a `docs/` részben adunk majd meg.
 
-## Képek és vizualizáció
 
-- Ábrákat, képernyőmentéseket helyezzenek az `img/` mappába (pl. `img/maze_example.png`) és hivatkozzák őket a dokumentációban.
-
----
-
-Ez a README kizárólag a projekthez kapcsolódó, technikai információkat tartalmazza (magyar nyelven), ahogy kérted.
-# `jan_fwl_aimaze` package
